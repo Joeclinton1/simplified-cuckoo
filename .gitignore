@@ -103,6 +103,10 @@ dist
 # TernJS port file
 .tern-port
 
+#Github files
+.github
+
+
 # React
 
 .DS_STORE
